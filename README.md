@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KolegaLiterat, but people just call me "Literat".
-- 👀 I’m interested in data journalism, gamedev. Mostly. I really heate working on GUI.
+- 👀 I’m interested in data journalism, gamedev. Mostly. I really hate working on GUI.
 - 🌱 I’m currently learning Python, Rust and - old, but gold - C++.
 - 📫 How to reach me -> adrian[at]kolegaliterat.pl
 
